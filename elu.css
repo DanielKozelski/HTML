@@ -1,0 +1,11 @@
+body{
+    font-family: 'Manjari', sans-serif;
+
+    background: rgb(57,74,109);
+    background: linear-gradient(0deg, rgba(57,74,109,1) 0%, rgba(60,157,155,0.7539216370141807) 20%, rgba(82,222,151,1) 53%, rgba(192,255,179,1) 100%);
+    background-size: cover;
+    color: #000000;
+}
+a {
+    color: #ed0cef;
+}
